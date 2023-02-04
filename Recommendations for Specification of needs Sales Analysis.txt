@@ -1,0 +1,86 @@
+problem and context:
+
+Context and Problem justification
+
+Unable to identify the most sold products
+Identifying the mostly sold product to help focus
+on the quantity to be produced for at a specific
+time and place
+
+Unable to increase sales at the right store
+Identifying the store where demande is at the peak
+will obtimise managment and hence personel
+effectiveness
+
+Unable to increase sales at the right time
+Identifying the time where demande is at the peak
+will obtimise managment and hence personel
+effectiveness
+
+INDIVIDUAL SALES PRODUCTIVITY IS TOO LOW
+Little or too much productivity for a prescribed sale
+
+Absence of online ads at the right time
+Increasing adversing at the right time will increase sales
+
+
+Methodology:
+3 pillars for the
+Methodology
+
+Data exploration and analysis
+
+Here we will start with the exploration of the data and
+getting rid of useless rows and columns before
+jumping into the data analysis
+
+Model prediction
+
+Here we will demonstrate the two models we used in order to predict sales of the year 2023 and 2024- Linear Regression Model
+- Polynomial Regression Model
+
+Hypothesis check
+Here we will veriy our hypothesis :
+H1 : Most of our sold items are cheap items !H2 : Most of the sold items are combined sales !
+
+
+Analysis Question:
+
+Question 1: What was the best month for sales and how
+much was earned that month?
+• Question 2: What city sold the most product?
+• Question 3: What time should we display advertisements
+to maximize like hood of customer’s buying product?
+• Question 4: What products are most often sold together?
+Question 5: What Product Sold the most? Why do you
+think it sold the most?
+
+
+Presentation:
+What is the input of the model you used?
+
+what is the best model you  got?
+
+
+
+What was the main challenge you faced ? The main challenge i face was that I had never used python nrh jupyter
+notebook before, so chosing a good data set was troubelsome as, the chosen was data only for one year
+
+
+
+
+
+
+
+
+
+References
+https://github.com/AlexTheAnalyst
+
+
+you can see the stopid that deserts the most sub-city, and the sub-city that receives at least one or more different stopids
+
+
+
+Make a relationship between the office polygons generated in Qgis, the original stop ids with high and little entry and exist
+and also, with the time of high demande and the points attracting more demande.
