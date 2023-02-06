@@ -1,0 +1,27 @@
+Modelling of Shuttle Operation Specification of needs in our First Semester Work
+
+
+1. Abstract
+2.Introduction
+3.Reliability of Shuttle Opreation
+ i. Factors affecting the reliabiloty: - Trafic Characteristics
+				     - Road Characteristics
+				    -Bus Operation Characteristics
+ii. Measures of Reliability: - Travel Time reliability
+			    - Headway Reliability(the ability to maintain the existing schedule)
+			   - Passenger Reliability, Trust and waitime for the next stops
+
+4. Case Study: Kronach
+	-Existing travel time presentation
+	-Presentation of existing Stops and locations
+	-Data collection and Analysis	
+		i.Observed Travel Time for different roads in a specific period i.e Time VS Bus Stops
+		ii. Observed bus trajectories along the test roads i.e. Time VS test Roads
+		iii. Observed bus dwell time and number of boarding and alighting passengers at different bus stops of different roads i.e. Number of passenger VS time
+	- Hypothesis test:
+			i.Placement of stops highly impacts bus demand
+5. Model Developement
+	i. Calculate the dwell time between stops to find out the models average and observed time
+	ii.Time VS Observed model average time and compare this to the real observed average time.
+	iii. Test scenario 
+6. Resulst and interpretation
